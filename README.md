@@ -27,5 +27,5 @@ All publications using SIXray dataset should cite the paper below:
 ## DOWNLOAD
 * Download all the dataset from [here](https://pan.baidu.com/s/1zSbpapRURc9Uzjl-1ZWI_w)
 * Download all the positive annotation from [here](https://pan.baidu.com/s/1ZNxsYWdVXHyDGG5EvVeadQ)
-* If you can not download from the first way, you can contact with me (miaocaijing16@mails.ucas.ac.cn). I will give you a temporary link to download this dataset
+* If you can not download from the first way, you can download from the link in ``` data_list.txt```
 
